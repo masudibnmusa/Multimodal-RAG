@@ -107,7 +107,7 @@ multimodal-rag/
 ### Installation
 
 ```bash
-git clone 
+git clone https://github.com/masudibnmusa/Multimodal-RAG.git
 cd multimodal-rag
 
 python -m venv .venv
@@ -117,7 +117,6 @@ pip install -r requirements.txt
 ```
 
 Core dependencies: `pymupdf`, `pillow`, `anthropic`, `colpali-engine`, `torch`.
-
 ### Configuration
 
 ```bash
