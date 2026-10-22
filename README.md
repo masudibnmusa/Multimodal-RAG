@@ -1,6 +1,6 @@
 # Multimodal RAG: Query PDFs with Charts, Tables, and Diagrams
 
-A retrieval-augmented generation (RAG) system that answers questions about the **visual content** of documents, such as:
+A retrieval-augmented generation system that answers questions about the **visual content** of documents, such as:
 
 - "What was Q3 revenue according to the bar chart?"
 - "Which component connects to the cache in the architecture diagram?"
