@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/page_images/
+data/indexes/
+data/parsed/
+data/pdfs/*.pdf
+evaluation/results_*.json
