@@ -1,0 +1,13 @@
+pymupdf
+pillow
+anthropic
+colpali-engine
+torch
+transformers
+sentence-transformers
+chromadb
+numpy
+python-dotenv
+streamlit
+tqdm
+pytest
