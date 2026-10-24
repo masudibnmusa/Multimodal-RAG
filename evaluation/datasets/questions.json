@@ -1,0 +1,34 @@
+[
+  {
+    "id": "q001",
+    "doc": "annual_report_2025.pdf",
+    "question": "What was Q3 revenue according to the bar chart?",
+    "type": "chart",
+    "gold_pages": [12],
+    "gold_answer": "4.2"
+  },
+  {
+    "id": "q002",
+    "doc": "annual_report_2025.pdf",
+    "question": "What is the operating margin for 2024 in the financial summary table?",
+    "type": "table",
+    "gold_pages": [15],
+    "gold_answer": "18.5"
+  },
+  {
+    "id": "q003",
+    "doc": "system_design.pdf",
+    "question": "Which component connects to the cache in the architecture diagram?",
+    "type": "diagram",
+    "gold_pages": [4],
+    "gold_answer": "API gateway"
+  },
+  {
+    "id": "q004",
+    "doc": "system_design.pdf",
+    "question": "What is the stated goal of the project?",
+    "type": "text",
+    "gold_pages": [1],
+    "gold_answer": "reduce latency"
+  }
+]
